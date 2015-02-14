@@ -46,18 +46,6 @@ public class MainActivity2 extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void accessPage(View view) {
-        if (view.equals(findViewById(R.id.button))) {
-
-        }
-        else if (view.equals(findViewById(R.id.button2))) {
-
-        }
-        else if (view.equals(findViewById(R.id.button3))) {
-
-        }
-    }
-
     /**
      * A placeholder fragment containing a simple view.
      */
